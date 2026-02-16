@@ -1,0 +1,7 @@
+arcfall-survival/
+│
+├── index.html
+├── style.css
+├── game.js
+└── libs/
+    └── three.min.js
